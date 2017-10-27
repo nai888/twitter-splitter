@@ -1,1 +1,26 @@
-/* You can add global styles to this file, and also import other style files */
+@import './variables'
+
+html
+  font-family: sans-serif
+
+body
+  font-family: $font-family
+  color: $twbla
+
+a,
+a:link,
+a:visited,
+a:hover,
+a:active
+  color: $twblu
+  text-decoration-color: $twblu
+  text-decoration-skip: ink
+
+a
+  text-decoration: none
+  &:link,
+  &:visited
+    text-decoration: none
+  &:hover,
+  &:active
+    text-decoration: underline
