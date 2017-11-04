@@ -23,22 +23,22 @@ Twitter Splitter uses an unstable Master branch. The master branch is used for d
 
 ## Development Roadmap
 
-- [] Build structure of page
-- [] Add textbox area for text entry
-- [] Add mock-up of tweets for preview
-- [] Populate text in preview tweets
-- [] Split the text correctly into tweets
-- [] Add stats for how many characters and how many tweets
-- [] Add numbering option
-  - [] #) ...
-  - [] #/ ...
-  - [] #/# ...
-  - [] ... (#/)
-  - [] ... (#/#)
-- [] Add reply option
-- [] Add quote option
-- [] Enable switch between 140 or 280 characters
-- [] Enable posting tweets from app
+- [ ] Build structure of page
+- [ ] Add textbox area for text entry
+- [ ] Add mock-up of tweets for preview
+- [ ] Populate text in preview tweets
+- [ ] Split the text correctly into tweets
+- [ ] Add stats for how many characters and how many tweets
+- [ ] Add numbering option
+  - [ ] #) ...
+  - [ ] #/ ...
+  - [ ] #/# ...
+  - [ ] ... (#/)
+  - [ ] ... (#/#)
+- [ ] Add reply option
+- [ ] Add quote option
+- [ ] Enable switch between 140 or 280 characters
+- [ ] Enable posting tweets from app
 
 ## Authors
 
