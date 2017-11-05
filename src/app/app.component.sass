@@ -1,0 +1,16 @@
+main
+  display: flex
+
+// Hide the preview panel when too small
+.entry-panel
+  width: 100%
+.preview-panel
+  display: none
+
+// Split the window 50/50 when wide enough
+@media (min-width: 768px)
+  .entry-panel
+    width: 50%
+  .preview-panel
+    display: block
+    width: 50%
