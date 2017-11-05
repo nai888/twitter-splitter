@@ -5,6 +5,4 @@ import { Component, OnInit } from '@angular/core'
   templateUrl: './header.component.html',
   styleUrls: ['./header.component.sass']
 })
-export class HeaderComponent {
-  title = 'Twitter Splitter'
-}
+export class HeaderComponent { }
