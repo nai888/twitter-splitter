@@ -1,5 +1,9 @@
 # Twitter Splitter
 
+## Deprecated
+
+Twitter has introduced a new feature to automatically enable the threading of tweets, making this package unneeded. Development has been discontinued.
+
 1. [Overview](#overview)
 1. [Deployment](#deployment)
 1. [Versioning](#versioning)
@@ -48,4 +52,4 @@ See also the list of [people who have contributed](https://github.com/nai888/twi
 
 ## License
 
-Langua is licensed under the [GNU Affero General Public License v3.0](https://choosealicense.com/licenses/agpl-3.0/).
+Twitter Splitter is licensed under the [GNU Affero General Public License v3.0](https://choosealicense.com/licenses/agpl-3.0/).
